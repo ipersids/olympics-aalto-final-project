@@ -1,5 +1,5 @@
 # Olympic medals tracking program
-Final project for [Aalto University's C programming course](https://fitech.io/en/studies/basic-course-in-c-programming/). The task involves implementing a system to track Olympic medals for various countries, including functionalities for adding, sorting, and managing the medal data.
+Final project for [Aalto University: Basic Course in C Programming, 5 ECTS](https://fitech.io/en/studies/basic-course-in-c-programming/). The task involves implementing a system to track Olympic medals for various countries, including functionalities for adding, sorting, and managing the medal data.
 
 ### Project Structure
 
@@ -84,7 +84,8 @@ Q
 - Basics of the C programming language.  
 - Dynamic memory management and its application in common data structures. 
 - Basic use of programming and debugging tools for C.  
-  
+
+[**Show credential**](https://openbadgepassport.com/app/badge/info/807961) of course completion.
 
 _________
   
